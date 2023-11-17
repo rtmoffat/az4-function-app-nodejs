@@ -1,0 +1,22 @@
+{
+  "name": "az4-function-app-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtmoffat/az4-function-app-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtmoffat/az4-function-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/rtmoffat/az4-function-app-nodejs#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
